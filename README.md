@@ -4,3 +4,7 @@
 - [Ethereum's Layer 2 Scaling solutions](https://medium.com/l4-media/making-sense-of-ethereums-layer-2-scaling-solutions-state-channels-plasma-and-truebit-22cb40dcc2f4)
 - [Ethereum's Multi-Signature wallet](https://medium.com/hellogold/ethereum-multi-signature-wallets-77ab926ab63b)
 - [Jeff Coleman on State Channels](https://www.jeffcoleman.ca/state-channels/)
+
+### Future work
+
+I would like to make these websites/articles permanent with something like IPFS. Maybe in the future...
