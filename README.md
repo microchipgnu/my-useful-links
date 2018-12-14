@@ -2,7 +2,7 @@
 
 ## JS Packages
 
-- [Lerna: A tool for managing JavaScript projects with multiple packages](https://lernajs.io/)
+- [Lerna](https://lernajs.io/):A tool for managing JavaScript projects with multiple packages
 
 ## Articles
 - [Signing and Verifying Ethereum transactions](https://dzone.com/articles/signing-and-verifying-ethereum-signatures)
