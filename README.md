@@ -10,6 +10,6 @@
 - [Ethereum's Multi-Signature wallet](https://medium.com/hellogold/ethereum-multi-signature-wallets-77ab926ab63b)
 - [Jeff Coleman on State Channels](https://www.jeffcoleman.ca/state-channels/)
 
-### Future work
-
-I would like to make these websites/articles permanent with something like IPFS. Maybe in the future...
+## YouTube Channels
+- [Andreas Antonopoulos (aantonop)](https://www.youtube.com/channel/UCJWCJCWOxBYSi5DhCieLOLQ)
+- [Dapp University](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ)
