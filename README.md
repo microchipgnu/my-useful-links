@@ -39,3 +39,4 @@ Then I decided that to keep track of my research to make it useful to someone el
 # YouTube Channels
 - [Andreas Antonopoulos (aantonop)](https://www.youtube.com/channel/UCJWCJCWOxBYSi5DhCieLOLQ)
 - [Dapp University](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ) 
+- [ConsenSys Media](https://www.youtube.com/channel/UCBeLEwM-yhIKuIxHTx0VzdQ)
