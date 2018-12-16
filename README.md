@@ -7,9 +7,15 @@ Lately, I noticed my days consisted on:
 
 Then I decided that to keep track of my research to make it useful to someone else. Here are the links for every thing I may find interesting.
 
-# JS Packages
+# Tooling
+
+## JS packages
 
 - [Lerna](https://lernajs.io/) A tool for managing JavaScript projects with multiple packages
+
+## Ethereum development
+
+- [Truffle Flattener](https://github.com/nomiclabs/truffle-flattener) Solidity files concatener. Useful for Etherscan verification.
 
 # Articles
 
