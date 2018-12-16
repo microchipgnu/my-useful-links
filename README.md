@@ -27,7 +27,8 @@ Then I decided that to keep track of my research to make it useful to someone el
 - [World's biggest data breaches](https://informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/) 
 
 ## Distributed web
-- [IPFS](https://ipfs.io/) Links: [Github](https://github.com/ipfs/ipfs)
+- [IPFS](https://ipfs.io/)
+- [Storj](https://storj.io/)
 
 # YouTube Channels
 - [Andreas Antonopoulos (aantonop)](https://www.youtube.com/channel/UCJWCJCWOxBYSi5DhCieLOLQ)
