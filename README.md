@@ -22,9 +22,15 @@ Then I decided that to keep track of my research to make it useful to someone el
 - [Ethereum's Multi-Signature wallet](https://medium.com/hellogold/ethereum-multi-signature-wallets-77ab926ab63b)
 - [Jeff Coleman on State Channels](https://www.jeffcoleman.ca/state-channels/)
 
+## IOTA
+- [eCl@ss and IOTA](https://eclass.iota.org/)
+- [IOTA Data Marketplace](https://data.iota.org)
+
+
 ## Data
 - [How to take back control and use your Google Maps data?](https://medium.com/alex-attia-blog/how-to-take-back-control-and-use-your-google-maps-data-683fb5d4043e)
-- [World's biggest data breaches](https://informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/) 
+- [World's biggest data breaches](https://informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/)
+- [IOTA Standardize Data](https://blog.iota.org/ecl-ss-and-the-iota-foundation-announce-partnership-to-standardize-internet-of-things-payments-and-db200189050f)
 
 ## Distributed web
 - [IPFS](https://ipfs.io/)
