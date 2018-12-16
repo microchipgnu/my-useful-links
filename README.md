@@ -17,7 +17,7 @@ Then I decided that to keep track of my research to make it useful to someone el
 
 - [Truffle Flattener](https://github.com/nomiclabs/truffle-flattener) Solidity files concatener. Useful for Etherscan verification.
 
-# Articles
+# Articles & Websites
 
 ## Blockchain & DLTs (general)
 - [How Blockchains Will Enable Privacy](https://towardsdatascience.com/how-blockchains-will-enable-privacy-1522a846bf65) 
