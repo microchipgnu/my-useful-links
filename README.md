@@ -17,6 +17,13 @@ Then I decided that to keep track of my research to make it useful to someone el
 
 - [Truffle Flattener](https://github.com/nomiclabs/truffle-flattener) Solidity files concatener. Useful for Etherscan verification.
 
+## IOTA development
+
+- [Available nodes](https://iota.dance/)
+- [Devnet/Testnet](https://nodes.devnet.iota.org:443)https://nodes.devnet.iota.org:443
+- [Testnet explorer](https://devnet.thetangle.org/)
+- [IOTA GitHub](https://github.com/iotaledger) 
+
 # Articles & Websites
 
 ## Blockchain & DLTs (general)
