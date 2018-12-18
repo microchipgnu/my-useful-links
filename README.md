@@ -20,7 +20,8 @@ Then I decided that to keep track of my research to make it useful to someone el
 ## IOTA development
 
 - [Available nodes](https://iota.dance/)
-- [Devnet/Testnet](https://nodes.devnet.iota.org:443)https://nodes.devnet.iota.org:443
+- [Devnet/Testnet](https://nodes.devnet.iota.org:443) 
+  - url: https://nodes.devnet.iota.org:443
 - [Testnet explorer](https://devnet.thetangle.org/)
 - [IOTA GitHub](https://github.com/iotaledger) 
 
