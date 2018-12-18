@@ -41,6 +41,7 @@ Then I decided that to keep track of my research to make it useful to someone el
 ## Distributed web
 - [IPFS](https://ipfs.io/)
 - [Storj](https://storj.io/)
+- [How to host your IPFS files online...](https://medium.com/ethereum-developers/how-to-host-your-ipfs-files-online-forever-f0c56b9b5398)
 
 # YouTube Channels
 - [Andreas Antonopoulos (aantonop)](https://www.youtube.com/channel/UCJWCJCWOxBYSi5DhCieLOLQ)
