@@ -41,6 +41,8 @@ Then I decided that to keep track of my research to make it useful to someone el
 - [eCl@ss and IOTA](https://eclass.iota.org/)
 - [IOTA Data Marketplace](https://data.iota.org)
 
+## Hyperledger
+- [Making Legal Contracts Smart](https://www.hyperledger.org/blog/2018/01/11/making-legal-contracts-smart)
 
 ## Data
 - [How to take back control and use your Google Maps data?](https://medium.com/alex-attia-blog/how-to-take-back-control-and-use-your-google-maps-data-683fb5d4043e)
