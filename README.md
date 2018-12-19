@@ -24,6 +24,7 @@ Then I decided that to keep track of my research to make it useful to someone el
   - url: https://nodes.devnet.iota.org:443
 - [Testnet explorer](https://devnet.thetangle.org/)
 - [IOTA GitHub](https://github.com/iotaledger) 
+- [How to run a private Tangle](https://github.com/iotaledger/compass/blob/master/docs/HOWTO_private_tangle.md)
 
 # Articles & Websites
 
