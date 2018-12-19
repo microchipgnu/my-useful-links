@@ -30,6 +30,7 @@ Then I decided that to keep track of my research to make it useful to someone el
 
 ## Blockchain & DLTs (general)
 - [How Blockchains Will Enable Privacy](https://towardsdatascience.com/how-blockchains-will-enable-privacy-1522a846bf65) 
+- [The Meaning of Decentralization](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274) by Vitalik Buterin
 
 ## Ethereum
 - [Signing and Verifying Ethereum transactions](https://dzone.com/articles/signing-and-verifying-ethereum-signatures)
