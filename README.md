@@ -47,6 +47,7 @@ Then I decided that to keep track of my research to make it useful to someone el
 ## IOTA
 - [eCl@ss and IOTA](https://eclass.iota.org/)
 - [IOTA Data Marketplace](https://data.iota.org)
+- [IOTA growing ecossystem](https://medium.com/@CryptoBrowser/iota-experiments-forming-ecosystem-and-projects-development-and-tooling-d89a5c643de2)
 
 ## Hyperledger
 - [Making Legal Contracts Smart](https://www.hyperledger.org/blog/2018/01/11/making-legal-contracts-smart)
