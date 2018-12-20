@@ -9,9 +9,12 @@ Then I decided that to keep track of my research to make it useful to someone el
 
 # Tooling
 
-## JS packages
+## npm packages
 
 - [Lerna](https://lernajs.io/) A tool for managing JavaScript projects with multiple packages
+
+### React Native
+- [React Native Orientation](https://www.npmjs.com/package/react-native-orientation)
 
 ## Ethereum development
 
