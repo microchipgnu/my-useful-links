@@ -40,3 +40,12 @@
 - [Storj](https://storj.io/)
 - [How to host your IPFS files online...](https://medium.com/ethereum-developers/how-to-host-your-ipfs-files-online-forever-f0c56b9b5398)
 - [Setting up IPFS peer](https://medium.com/textileio/tutorial-setting-up-an-ipfs-peer-part-i-de48239d82e0)
+
+## Medium
+
+Here is a list of interesting Medium profiles.
+
+### IOTA
+- [@lambtho](https://medium.com/@lambtho)
+- [@microhash](https://blog.iota.org/@micro_hash)
+ 
