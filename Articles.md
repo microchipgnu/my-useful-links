@@ -21,6 +21,7 @@
 - [IOTA Data Marketplace](https://data.iota.org)
 - [IOTA growing ecossystem](https://medium.com/@CryptoBrowser/iota-experiments-forming-ecosystem-and-projects-development-and-tooling-d89a5c643de2)
 - [Tokenized Smart Contracts](https://medium.com/coinmonks/tokenized-smart-contracts-e88bc06bc969)
+- [Blockchain tokens on top of IOTAs Qubic Protocol](https://medium.com/@micro_hash/running-blockchain-tokens-on-top-of-iotas-qubic-protocol-dc8e14e06a85)
 
 
 ## Hyperledger
