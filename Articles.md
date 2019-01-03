@@ -20,6 +20,8 @@
 - [eCl@ss and IOTA](https://eclass.iota.org/)
 - [IOTA Data Marketplace](https://data.iota.org)
 - [IOTA growing ecossystem](https://medium.com/@CryptoBrowser/iota-experiments-forming-ecosystem-and-projects-development-and-tooling-d89a5c643de2)
+- [Tokenized Smart Contracts](https://medium.com/coinmonks/tokenized-smart-contracts-e88bc06bc969)
+
 
 ## Hyperledger
 
@@ -36,3 +38,4 @@
 - [IPFS](https://ipfs.io/)
 - [Storj](https://storj.io/)
 - [How to host your IPFS files online...](https://medium.com/ethereum-developers/how-to-host-your-ipfs-files-online-forever-f0c56b9b5398)
+- [Setting up IPFS peer](https://medium.com/textileio/tutorial-setting-up-an-ipfs-peer-part-i-de48239d82e0)
