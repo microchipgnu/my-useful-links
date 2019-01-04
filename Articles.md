@@ -40,6 +40,7 @@
 - [Storj](https://storj.io/)
 - [How to host your IPFS files online...](https://medium.com/ethereum-developers/how-to-host-your-ipfs-files-online-forever-f0c56b9b5398)
 - [Setting up IPFS peer](https://medium.com/textileio/tutorial-setting-up-an-ipfs-peer-part-i-de48239d82e0)
+- [Build a Decentralized Chat App with Knockout and IPFS](https://medium.com/textileio/build-a-decentralized-chat-app-with-knockout-and-ipfs-fccf11e8ce7b)
 
 ## Interaction and Visualization 
 
