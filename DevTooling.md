@@ -1,6 +1,10 @@
 # Tooling
 
-## npm packages
+## go packages
+
+- [Glide](https://glide.sh/) Package Management for Go
+
+## js packages
 
 - [Lerna](https://lernajs.io/) A tool for managing JavaScript projects with multiple packages
 
