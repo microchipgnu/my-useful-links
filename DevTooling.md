@@ -1,3 +1,9 @@
+# Development
+
+## js
+
+- [Debounce function](https://davidwalsh.name/javascript-debounce-function) limits the rate at which a function can fire
+
 # Tooling
 
 ## go packages
