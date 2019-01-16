@@ -1,3 +1,5 @@
+- [Compare libs](libhunt.com)
+
 # Development
 
 ## js
@@ -8,6 +10,7 @@
 
 ## go packages
 
+- [Dep](https://github.com/golang/dep) Package Management for Go
 - [Glide](https://glide.sh/) Package Management for Go
 
 ## js packages
