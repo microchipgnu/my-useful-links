@@ -1,6 +1,7 @@
 # Articles & Websites
 
 - [NPM Packages permissions ideas](https://hackernoon.com/npm-package-permissions-an-idea-441a02902d9b)
+- [Why use GraphQL, good and bad reasons](https://honest.engineering/posts/why-use-graphql-good-and-bad-reasons)
 
 ## Blockchain & DLTs (general)
 
