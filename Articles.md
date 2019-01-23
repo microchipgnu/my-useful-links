@@ -4,6 +4,7 @@
 
 - [NPM Packages permissions ideas](https://hackernoon.com/npm-package-permissions-an-idea-441a02902d9b)
 - [Exploiting Developer Infrasctructure is insanely easy](https://medium.com/s/story/exploiting-developer-infrastructure-is-insanely-easy-9849937e81d4)
+- [Why use GraphQL, good and bad reasons](https://honest.engineering/posts/why-use-graphql-good-and-bad-reasons)
 
 ## Blockchain & DLTs (general)
 
@@ -23,6 +24,9 @@
 - [eCl@ss and IOTA](https://eclass.iota.org/)
 - [IOTA Data Marketplace](https://data.iota.org)
 - [IOTA growing ecossystem](https://medium.com/@CryptoBrowser/iota-experiments-forming-ecosystem-and-projects-development-and-tooling-d89a5c643de2)
+- [Tokenized Smart Contracts](https://medium.com/coinmonks/tokenized-smart-contracts-e88bc06bc969)
+- [Blockchain tokens on top of IOTAs Qubic Protocol](https://medium.com/@micro_hash/running-blockchain-tokens-on-top-of-iotas-qubic-protocol-dc8e14e06a85)
+
 
 ## Hyperledger
 
@@ -39,3 +43,21 @@
 - [IPFS](https://ipfs.io/)
 - [Storj](https://storj.io/)
 - [How to host your IPFS files online...](https://medium.com/ethereum-developers/how-to-host-your-ipfs-files-online-forever-f0c56b9b5398)
+- [Setting up IPFS peer](https://medium.com/textileio/tutorial-setting-up-an-ipfs-peer-part-i-de48239d82e0)
+- [Build a Decentralized Chat App with Knockout and IPFS](https://medium.com/textileio/build-a-decentralized-chat-app-with-knockout-and-ipfs-fccf11e8ce7b)
+- [This single-page web app can edit itself](https://medium.com/textileio/this-single-page-web-app-can-edit-itself-62734dac2700)
+
+## Interaction and Visualization 
+
+From UI/UX to Data Visualization.
+
+- [The best interface is no interface](https://www.cooper.com/journal/2012/08/the-best-interface-is-no-interface)
+
+## Medium
+
+Here is a list of interesting Medium profiles.
+
+### IOTA
+- [@lambtho](https://medium.com/@lambtho)
+- [@microhash](https://blog.iota.org/@micro_hash)
+ 
