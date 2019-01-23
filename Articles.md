@@ -1,6 +1,9 @@
 # Articles & Websites
 
+## Security
+
 - [NPM Packages permissions ideas](https://hackernoon.com/npm-package-permissions-an-idea-441a02902d9b)
+- [Exploiting Developer Infrasctructure is insanely easy](https://medium.com/s/story/exploiting-developer-infrastructure-is-insanely-easy-9849937e81d4)
 
 ## Blockchain & DLTs (general)
 
