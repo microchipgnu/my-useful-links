@@ -15,7 +15,9 @@
 
 ## js packages
 
+- [Lodash](https://lodash.com/) Utility library delivering modularity, performance & extras
 - [Lerna](https://lernajs.io/) A tool for managing JavaScript projects with multiple packages
+
 
 ### React Native
 
