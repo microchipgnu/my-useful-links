@@ -17,6 +17,7 @@
 
 - [Lodash](https://lodash.com/) Utility library delivering modularity, performance & extras
 - [Lerna](https://lernajs.io/) A tool for managing JavaScript projects with multiple packages
+- [MerkleTree](https://merkletree.js.org/) Construct Merkle Trees and verify proofs in JavaScript.
 
 
 ### WebVR
