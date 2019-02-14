@@ -30,6 +30,7 @@
 ## Ethereum development
 
 - [Truffle Flattener](https://github.com/nomiclabs/truffle-flattener) Solidity files concatener. Useful for Etherscan verification.
+- [Zepkit](https://zepkit.zeppelinos.org/?utm_campaign=zos-announcement-zepkit&utm_medium=blog&utm_source=wordpress) Build a Web3 application with the most trusted tools in Ethereum.
 
 ## IOTA development
 
@@ -51,4 +52,4 @@
 
 ## Web
 
--[Webflow](webflow.com)
+- [Webflow](webflow.com)
