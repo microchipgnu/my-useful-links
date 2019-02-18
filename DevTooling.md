@@ -20,8 +20,14 @@
 - [MerkleTree](https://merkletree.js.org/) Construct Merkle Trees and verify proofs in JavaScript.
 
 
-### WebVR
-- [A-frame](https://aframe.io)
+### Web(A|X|V)R
+  - Frameworks/Engines/...
+    - [A-frame](https://aframe.io)
+    - [Exokit](https://github.com/webmixedreality/exokit )Native VR/AR/XR engine for JavaScript🦖
+  - 3D objects
+    - [Google Poly](https://poly.google.com)
+    - [Sketchfab](https://sketchfab.com)
+
 
 ### React Native
 
