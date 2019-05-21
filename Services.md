@@ -4,3 +4,6 @@
 - [Expo/Snack](https://snack.expo.io/@luisfreitas) 
 - [Observable](https://observablehq.com/@lewisfreitas)
 - [Glitch](https://glitch.com/@LewisFreitas)
+
+## Others
+- [Asciinema](https://asciinema.org/) Record and share terminal sessions
